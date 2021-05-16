@@ -25,7 +25,7 @@ You can define the desired words per minute:
 
 For unlimited speed:
 
-`python3 py_fingers 0`
+`python3 py_fingers`
 
 ## Built With
 
